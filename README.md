@@ -1,1 +1,0 @@
-# shutdown-laptop-with-hand-sensor
